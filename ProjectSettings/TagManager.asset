@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Chemical2
+  - B
+  - Chemical3
+  - C
+  - Chemical1
+  - A
+  - atoms
+  - book
+  - AB
+  - AC
+  - BC
+  - projectile
+  - FxTemporaire
+  - slot1
+  - shelfslot1
+  - bookforslot1
+  - shelf
+  - Chemical4
+  - shelfslot2
+  - slot2
+  - bookforslot2
+  - Plug
+  - CordA
+  - CordB
+  - shelfslot3
+  - shelfslot4
+  - shelfslot5
+  - bookforslot3
+  - bookforslot4
+  - bookforslot5
+  - slot3
+  - slot4
+  - slot5
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
