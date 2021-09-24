@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ddd2dcd54efd0e04cb1d8ed361539f6e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ranga
+  fontNames:
+  - Ranga
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9a10e68eaa338924daa5739e9185039a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

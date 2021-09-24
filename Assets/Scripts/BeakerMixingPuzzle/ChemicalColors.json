@@ -1,0 +1,12 @@
+[
+	{"MixId" : AB, "ColorID" : Color.gray },
+	{"MixId" : AC, "ColorID" : Color.cyan},
+	{"MixId" : AD, "ColorID" : Color.black},
+	{"MixId" : AE, "ColorID" : Color.green},
+	{"MixId" : BC, "ColorID" : Color.white},
+	{"MixId" : BD, "ColorID" : Color.yellow},
+	{"MixId" : BE, "ColorID" : Color.blue},
+	{"MixId" : CD, "ColorID" : Color.red},
+	{"MixId" : CE, "ColorID" : Color.magenta},
+	{"MixId" : DE, "ColorID" : new Color(1,.4778032f, 0)}
+]
